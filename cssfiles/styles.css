@@ -20,7 +20,7 @@ text-align: center;
 
   }
 
-  .maindiv{
+div.maindiv{
 background-color: rgb(25, 161, 202);
 width: 500%;
 margin-left: 0%;
@@ -115,6 +115,16 @@ div.T{
   height: 300px;
   margin-left: 10px;
   float: left; 
+
+}
+
+div.R{
+  background-color: rgb(226, 111, 17);
+  width: 500px;
+  height: 300px;
+  margin-left: 10px;
+  float: left; 
+
 
 }
 
